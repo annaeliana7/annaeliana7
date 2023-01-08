@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Anna Petras</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/58w6SKB0Ba7w2d73FZ/giphy.gif" width="500"/>
 </div>
